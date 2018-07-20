@@ -9,21 +9,24 @@ I was able to create my own (low quality) assets and models.
 ## Folder breakdown
 
 - Lab1: Maya Basics
-  |- Goal: Create 3d model from image. 
-  |- Attached: output maya models and source images.
+  
+  ├ Goal: Create 3d model from image. 
+  ├ Attached: output maya models and source images.
 
 - Lab2: Scenes
-  |- Goal: Build a scene of a furnished room that contains: 
+  
+  ├ Goal: Build a scene of a furnished room that contains: 
   |    1. A sofa
   |    2. A table
   |    3. A shelf 
   |    4. A lamp 
-  |- Attached: output maya scene.
+  ├ Attached: output maya scene.
   
 - Lab3: Texturing
-  |- Goal: Introduction to the concept of texture-mapping.
+  
+  ├ Goal: Introduction to the concept of texture-mapping.
   |        Depending on the layout of the model, this can be a simple and quick process, or a complex and time-consuming one.
-  |- Attached: output textured objects and original bmp files.
+  ├ Attached: output textured objects and original bmp files.
 
 ## Author
 
